@@ -21,6 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
     <img src="https://www.svgrepo.com/show/349342/docker.svg" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="50" height="50"/>
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50"/>
 </div>
 <div align="center">
     <h3>Back-End</h3>
@@ -30,22 +31,15 @@
     <img class="whiteBG" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50"/>
 </div>
 <hr/>
-<div align="center">
-  
+  <div align="center">
+      
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grolland-creator&theme=tokyonight)
-
-<div align="center">
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grolland-creator&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grolland-creator&theme=tokyonight&utcOffset=8)
 
-</div>
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grolland-creator&theme=tokyonight)
 
 </div>
-<div align="center"><img align="center" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grolland-creator&theme=tokyonight' alt='img'/></div>
-<div align="center"><img align="center" src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grolland-creator&theme=tokyonight' alt='img'/></div>
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falkomerr&theme=monokai&utcOffset=8
-<div align="center"><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Grolland-creator&theme=tokyonight' alt='img'/></div>
-
+</div>
