@@ -6,4 +6,5 @@
   <img src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grolland-creator&theme=solarized_dark' alt='img'/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grolland-creator)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Grolland-creator)](https://github.com/anuraghazra/github-readme-stats' alt='img'/>
+
