@@ -27,9 +27,10 @@
     <h3>Back-End</h3>
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/>
-    <img class="whiteBG" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+    <img src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png" width="50" height="50" />
+    <img class="whiteBG" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50"/>
 </div>
 <hr/>
   <div align="center">
